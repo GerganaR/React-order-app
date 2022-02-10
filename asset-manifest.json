@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-order-appp/static/css/main.c50681b1.chunk.css",
+    "main.js": "/React-order-appp/static/js/main.fd71ef9c.chunk.js",
+    "main.js.map": "/React-order-appp/static/js/main.fd71ef9c.chunk.js.map",
+    "runtime-main.js": "/React-order-appp/static/js/runtime-main.3ffea7a5.js",
+    "runtime-main.js.map": "/React-order-appp/static/js/runtime-main.3ffea7a5.js.map",
+    "static/js/2.809fd1ca.chunk.js": "/React-order-appp/static/js/2.809fd1ca.chunk.js",
+    "static/js/2.809fd1ca.chunk.js.map": "/React-order-appp/static/js/2.809fd1ca.chunk.js.map",
+    "index.html": "/React-order-appp/index.html",
+    "static/css/main.c50681b1.chunk.css.map": "/React-order-appp/static/css/main.c50681b1.chunk.css.map",
+    "static/js/2.809fd1ca.chunk.js.LICENSE.txt": "/React-order-appp/static/js/2.809fd1ca.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/React-order-appp/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffea7a5.js",
+    "static/js/2.809fd1ca.chunk.js",
+    "static/css/main.c50681b1.chunk.css",
+    "static/js/main.fd71ef9c.chunk.js"
+  ]
+}
